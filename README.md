@@ -1,6 +1,9 @@
 # CIND820 Big Data Analytics Project
 # Jamara Romero-Gennings
-
+#
+# I will be reviewing the _Wages by Education Level_ dataset from the Ontario Government, sourced from Statistics Canada.
+# This study will focus on the province of Ontario Canada, with wage data from 2006 to 2024.
+#
 # Project Research Questions
 #
 # 1. Confirm the existence of the gender wage gap in Ontario.
