@@ -11,6 +11,15 @@ This study will focus on the province of Ontario Canada, with wage data from 200
 3. Examine wage trends across the different subgroups between genders to determine influence of immigration status on wage gap.
 4. Verify the correlation between education levels and wages between genders.
 
+**Environment**
+
+All codes were run in Google Collab on the following versions:
+- Python 3.12.12
+- numpy: 2.0.2
+- pandas: 2.2.2
+- seaborn: 0.13.2
+- matplotlib: 3.10.0
+
 **Assests to the project**
 - original dataset: https://data.ontario.ca/dataset/1f14addd-e4fc-4a07-9982-ad98db07ef86/resource/4cc07c1b-62ed-4ece-a2a4-d05d0f45081c/download/img-wage-rate-by-edu-age-sex-ft-pt-ca-on-2006-24.csv
 - Exploratory Data Analysis code: https://github.com/jammaro14-sys/CIND820/blob/main/Wages_Exploratory_Data_Analysis_code_JRG.ipynb
