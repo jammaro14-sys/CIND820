@@ -24,5 +24,10 @@ All codes were run in Google Collab on the following versions:
 - original dataset: https://data.ontario.ca/dataset/1f14addd-e4fc-4a07-9982-ad98db07ef86/resource/4cc07c1b-62ed-4ece-a2a4-d05d0f45081c/download/img-wage-rate-by-edu-age-sex-ft-pt-ca-on-2006-24.csv
 - Exploratory Data Analysis code: https://github.com/jammaro14-sys/CIND820/blob/main/Wages_Exploratory_Data_Analysis_code_JRG.ipynb
 - Wages Exploratory Data Analysis Report: https://github.com/jammaro14-sys/CIND820/blob/main/Wages_Exploratory_Data_Analysis_Report_JRG.html
-- Initial code and results file: https://github.com/jammaro14-sys/CIND820/blob/main/V1_wages_initialcode_JRG.ipynb
-- Initial code and results (with output): https://github.com/jammaro14-sys/CIND820/blob/main/V1_wages_initialcode_JRG.pdf
+
+**Project Research Questions Codes**
+- Data prep: https://github.com/jammaro14-sys/CIND820/blob/main/wages_dataprep.ipynb
+- Research Question 1: https://github.com/jammaro14-sys/CIND820/blob/main/wages_researchquestion1.ipynb
+- Research Question 2: https://github.com/jammaro14-sys/CIND820/blob/main/wages_researchquestion2.ipynb
+- Research Question 3: https://github.com/jammaro14-sys/CIND820/blob/main/wages_researchquestion3.ipynb
+- Research Question 4: https://github.com/jammaro14-sys/CIND820/blob/main/wages_researchquestion4.ipynb
